@@ -1,0 +1,4 @@
+googledrivedownloader
+numpy
+tensorflow==2.2.0
+matplotlib
